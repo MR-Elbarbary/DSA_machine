@@ -20,5 +20,26 @@ A Java/Maven-based platform for users to implement Data Structures and Algorithm
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/dsatest.git
-   cd dsatest
+   git clone https://github.com/MR-Elbarbary/DSA_machine.git
+   ```
+
+2. **Inter the Repository**
+   ```bash
+   cd DSA_machine/demo
+   ```
+3. **Compile project:**
+   ```bash
+   mvn compile
+   ```
+
+### to Test your work do
+
+```bash
+mvn -Dtest="testName" test
+```
+
+### example
+
+```bash
+mvn -Dtest=ArrayListTest test
+```
