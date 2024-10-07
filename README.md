@@ -35,7 +35,7 @@ A Java/Maven-based platform for users to implement Data Structures and Algorithm
 ### to Test your work do
 
 ```bash
-mvn -Dtest="testName" test
+mvn -Dtest="testName"+"Test" test
 ```
 
 ### example
