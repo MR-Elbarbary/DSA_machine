@@ -8,7 +8,6 @@ A Java/Maven-based platform for users to implement Data Structures and Algorithm
 - **Solution Implementations:** Reference solutions for users to compare against.
 - **Automated Testing:** Uses JUnit 5 and Maven Surefire for testing user implementations.
 - **Code Quality Checks:** Integrates Checkstyle for enforcing coding standards.
-- **Code Coverage Reports:** Utilizes JaCoCo to measure test coverage.
 
 ## Prerequisites
 
